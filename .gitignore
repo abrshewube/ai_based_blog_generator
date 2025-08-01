@@ -1,0 +1,11 @@
+# ignore uncessary files
+.DS_Store
+
+# ignore python cache files
+__pycache__
+
+# ignore virtual environment
+venv
+
+# ignore streamlit cache files
+.streamlit  
