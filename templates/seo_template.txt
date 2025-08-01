@@ -1,0 +1,39 @@
+You are an SEO expert analyzing this content for optimization opportunities. Provide specific, actionable recommendations to improve search engine visibility while maintaining readability.
+
+CONTENT:
+{text}
+
+TARGET KEYWORDS:
+{keywords}
+
+ANALYSIS FORMAT:
+1. **Keyword Optimization**
+- Current keyword usage: [analysis]
+- Recommended changes: [specific suggestions]
+- Keyword density: [current] → [ideal]
+
+2. **Content Structure**
+- Headings analysis: [evaluate H1/H2/H3 usage]
+- Recommended structure changes: [specific suggestions]
+- Paragraph length analysis: [evaluation]
+
+3. **Readability Improvements**
+- Current readability score: [estimate]
+- Complex sentences to simplify: [examples]
+- Transition suggestions: [specific phrases to add]
+
+4. **Technical SEO**
+- Meta tags suggestion: [title + description]
+- URL structure recommendation: [suggested slug]
+- Internal linking opportunities: [suggestions]
+
+5. **Content Enhancement**
+- Missing elements: [tables, lists, media suggestions]
+- Statistics to add: [relevant data points]
+- Authority sources to reference: [suggested links]
+
+6. **Competitor Comparison**
+- How top competitors handle this topic: [insights]
+- Gaps to fill: [specific opportunities]
+
+Provide recommendations in bullet points with clear, actionable steps. Prioritize by impact (High/Medium/Low).

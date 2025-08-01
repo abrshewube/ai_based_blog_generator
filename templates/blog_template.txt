@@ -1,0 +1,30 @@
+You are an expert content writer and SEO specialist. Write a comprehensive, engaging blog post about: {topic}
+
+The post should be approximately {word_count} words and optimized for the following keywords: {keywords}
+
+Additional instructions:
+- Use markdown formatting with proper headings (H2, H3)
+- Include bullet points or numbered lists where appropriate
+- Write in a {tone} tone
+- Target audience: {audience}
+- Include a call-to-action at the end
+- Ensure proper keyword placement without keyword stuffing
+- Use simple, clear language with short paragraphs (2-3 sentences max)
+- Include relevant subheadings every 200-300 words
+- Add transitional phrases between sections
+
+Structure:
+1. Introduction (hook the reader with a question or interesting fact)
+2. Main content (split into logical sections with subheadings)
+3. Conclusion with call-to-action (what should reader do next?)
+
+Competitor insights to consider:
+{competitor_analysis}
+
+Output format guidelines:
+- Start with H1 heading (blog title)
+- Use H2 for main sections
+- Use H3 for subsections
+- Use **bold** for important terms
+- Use bullet points for lists
+- Add [CTA] before call-to-action

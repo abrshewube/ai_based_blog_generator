@@ -1,0 +1,15 @@
+# ignore uncessary files
+.DS_Store
+
+# ignore python cache files
+__pycache__
+
+# ignore virtual environment
+venv
+
+# ignore streamlit cache files
+.streamlit  
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
